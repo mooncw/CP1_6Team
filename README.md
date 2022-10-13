@@ -33,6 +33,9 @@
   - 이미지 데이터 16000개, epochs = 15 => mae: 8.63 수행시간 14시간
   - 이미지 데이터 32000개, epochs = 20 => mae: 8.22 수행시간 35시간
  
+ ### 백엔드 과정
+ - 웹앱으로 장고를 사용
+ - sqlite3 DB에 이미지 주소를 넣음
  
  ### 결과
  ![result](https://user-images.githubusercontent.com/95577538/186096962-d7b5f53e-de0e-4a00-a454-226ee62d3a1b.jpg)
